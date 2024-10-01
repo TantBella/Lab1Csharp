@@ -1,5 +1,9 @@
 # Lab1 – Hitta tal i sträng med tecken
 
+
+![Bild på resultatet](
+https://github.com/TantBella/Lab1Csharp/blob/main/example.png)
+
 Skapa en konsollapplikation som tar en textsträng (string) som argument till
 Main eller uppmanar användaren mata in en sträng i konsollen.
 Textsträngen ska sedan sökas igenom efter alla delsträngar som är tal som börjar
