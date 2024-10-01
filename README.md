@@ -1,23 +1,3 @@
-JOBBSÖK
-
-Stena extra jobb
-recorded future
-bloomreach-nej
-hiremefast
-meta bytes (hundkontor i Laholm) nej
-
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-<div class="badge-base LI-profile-badge" data-locale="sv_SE" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="bella-sf" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://se.linkedin.com/in/bella-sf?trk=profile-badge">Bella Solomon Falkfrii</a></div>
-              
-
-www.linkedin.com/in/bella-sf
-
-
-Maintenance Monday
-
-
 # Lab1 – Hitta tal i sträng med tecken
 
 Skapa en konsollapplikation som tar en textsträng (string) som argument till
